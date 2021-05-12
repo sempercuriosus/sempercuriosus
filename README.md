@@ -4,6 +4,7 @@
 - C#
 - Dotnet Core
 - Python
+- T-SQL
 
 🌱 I’m currently learning 
 - Dependency Injection
