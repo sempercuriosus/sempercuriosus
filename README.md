@@ -10,4 +10,4 @@
 - Dependency Injection
 - How to make my approach better when breaking down a problem and problem solving
 
-📫 How to reach me via email or send me a message!
+📫 Reach me via email or send me a message!
