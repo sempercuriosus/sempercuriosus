@@ -5,9 +5,12 @@
 - Dotnet Core
 - Python
 - T-SQL
+- Hotwire
+- HTML
 
 🌱 I’m currently learning 
 - Dependency Injection
-- How to make my approach better when breaking down a problem and problem solving
+- Hotwire
+- Revisiting HTML and CSS. 
 
 📫 Reach me via email or send me a message!
