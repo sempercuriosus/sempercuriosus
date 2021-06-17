@@ -6,7 +6,7 @@
 - Python
 - T-SQL
 - Hotwire
-- HTML
+- Web Development
 
 🌱 I’m currently learning 
 - Dependency Injection
