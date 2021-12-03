@@ -5,7 +5,6 @@
 - Dotnet Core
 - Python
 - T-SQL
-- Hotwire
 - Web Development
 
 🌱 I’m currently learning 
