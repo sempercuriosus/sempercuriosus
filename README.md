@@ -1,4 +1,4 @@
-👋 Hi, I’m @sempercuriosus
+👋 Hi, I am Eric! (SemperCuriosus)
 
 👀 I’m interested in 
 - C# and Dotnet Core
