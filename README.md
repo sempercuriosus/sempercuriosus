@@ -5,7 +5,7 @@
 - Web Development in the form of JavaScript and React
 
 🌱 I’m currently learning 
-- Dependency Injection
 - React refreshing my JavaScript, HTML, and CSS. 
 
 📫 Reach me via email or send me a message!
+
