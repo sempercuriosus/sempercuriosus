@@ -1,12 +1,12 @@
 👋 Hi, I am Eric! (SemperCuriosus)
 
 👀 I’m interested in 
-- C# and Dotnet Core
-- Web Development
+- Full-Stack Web Development
+- C#
+- Dotnet Core
 - Python
 
 🌱 I’m currently learning 
-- React
+- How to be a Full-Stack Dev
 
 📫 Reach me via email or send me a message!
-
