@@ -8,4 +8,4 @@
 - C#
 - Dotnet Core
 
-📫 Reach me via email or send me a message!
+📫 Reach me via email at vespers-garages.0n@icloud.com!
