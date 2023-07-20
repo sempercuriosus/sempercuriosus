@@ -1,7 +1,7 @@
 👋 Hi, I am Eric! (SemperCuriosus)
 
 🌱 I’m currently learning 
-- How to be a Full-Stack Dev
+- How to be a Full-Stack Web Dev
 
 👀 I’m interested in 
 - Python
