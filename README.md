@@ -3,7 +3,7 @@ Hi 👋 My name is Eric!
 
 ## Bio
 
-I have been coding learning what to do one project at a time since 2015. I have an AAS in Application Development, and am currently learning how to be a Full Stack Web Developer through UNCC's Code Bootcamp.
+I have been coding learning what to do one project at a time since 2015 earning an AAS in Application Development, and currently I am learning how to be a Full Stack Web Developer through UNCC's Code Bootcamp.
 
 🌍  I'm based in East Coast, USA
 
