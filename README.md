@@ -11,7 +11,7 @@ I have been coding learning what to do one project at a time since 2015 earning 
 
 🖥️  See my portfolio at [(Personal Webpage)](http://thirdcoast.dev ) (This is a work in progress)
 
-✉️  You can contact me at [vespers-garages.0n@icloud.com](mailto:vespers-garages.0n@icloud.com) This is an alias, but the emails sent do go to my real email address.
+✉️  You can contact me via [Email](mailto:hulse@hey.com)
 
 ⚡  I enjoy learning, problem solving, and finding new-to-me things
 
