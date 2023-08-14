@@ -33,6 +33,6 @@ These are some of the skills that I have
 - Docker
 - Raspberry Pi
 
-## Socials
+## Social Media
 
 - I do not use social media but send me an email!
