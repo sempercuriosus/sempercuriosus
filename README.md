@@ -16,7 +16,7 @@ I have been coding learning what to do one project at a time since 2015 earning 
 ⚡  I enjoy learning, problem solving, and finding new-to-me things
 
 ## Skills
-These are some of the skills that I have
+These are some of the skills that I have, in no particular order
 
 - C#
 - JavaScript
