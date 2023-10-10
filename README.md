@@ -13,7 +13,7 @@ I have been coding learning what to do one project at a time since 2015 earning 
 
 ✉️  You can contact me via [Email](mailto:hulse@hey.com)
 
-⚡  I enjoy learning, problem solving, and finding new-to-me things
+⚡  I enjoy learning, problem solving, and finding new-to-me things. Outside of work, I love being out in nature be it on a hike, biking, walking, or just taking the time to sit in the grass and stare at the clouds floating on by. 
 
 ## Skills
 These are some of the skills that I have, in no particular order
