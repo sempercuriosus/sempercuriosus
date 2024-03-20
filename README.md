@@ -8,7 +8,7 @@ Here are a few things about me:
 ## Bio
 ---
 
-I have been coding learning what to do one project at a time since 2015 earning an AAS in Application Development, and I am currently pivoting to Full-Stack Web Developmen, having recently graduated from UNCC's Code Bootcamp! 
+I have been coding learning what to do one project at a time since 2015 earning an AAS in Application Development, and I am currently pivoting to Full-Stack Web Development, having recently graduated from UNCC's Code Bootcamp! 
 
 🌍  I'm based on the East Coast, USA, South Carolina, hailing from 🧀 Wisconsin 🦡 originally.
 
